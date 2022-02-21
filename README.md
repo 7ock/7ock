@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 統計數據 | statistics
+[![7ock](https://github-readme-stats.vercel.app/api?username=7ock&locale=en&show_icons=true&hide=contribs)](#)
