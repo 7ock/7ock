@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+```
+A thumbprint on the window of a skyscraper.
+```
+
 <!--
 **7ock/7ock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
